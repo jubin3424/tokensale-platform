@@ -22,6 +22,7 @@ module.exports = {
   ** Build configuration
   */
   build: {
+    vendor: ['element-ui', 'vue-parallaxy'],
     /*
     ** Run ESLint on save
     */

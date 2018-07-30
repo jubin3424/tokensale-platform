@@ -17,7 +17,7 @@
         </el-col>
         <el-col :xs="1" :sm="2"></el-col>
       </el-row>
-      <div class="b3" style="height: 65vh;">
+      <div class="b3" style="height: 70vh;">
   <el-row>
     <el-col :xs="1" :sm="2">&nbsp;</el-col>
     <el-col :xs="22" :sm="20">
