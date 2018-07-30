@@ -20,7 +20,7 @@
           </el-col>
           <el-col :xs="1" :sm="2"></el-col>
         </el-row>
-        <div class="b3">
+        <div class="b3" style="height: 150vh;">
       <el-row>
       <el-col :xs="1" :sm="2">&nbsp;</el-col>
       <el-col :xs="22" :sm="20">
@@ -171,7 +171,6 @@
   .b3 {
     background-color: #d6dce5;
     margin-top:15px;
-    height: 150vh;
   }
   .card-container {
     margin-top: 3rem;

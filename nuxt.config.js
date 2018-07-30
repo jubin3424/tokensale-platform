@@ -13,7 +13,7 @@ module.exports = {
       { rel: 'apple-touch-icon', type: 'image/x-icon', href: 'favicon/apple-icon-76x76.png' }
     ]
   },
-  plugins: [{src: '~/plugins/element-ui.js', ssr: false}],
+  plugins: [{src: '~/plugins/element-ui.js', ssr: true}],
   /*
   ** Customize the progress bar color
   */
